@@ -1,0 +1,26 @@
+:root {
+  --bg-deep: #070B14;
+  --bg-surface: #0F1626;
+  --bg-elevated: #172033;
+  --border-soft: rgba(255, 255, 255, 0.08);
+  --text-main: #F1F5F9;
+  --text-muted: #94A3B8;
+
+  --waste-plastic: #38BDF8;
+  --waste-organic: #4ADE80;
+  --waste-metal: #A78BFA;
+  --waste-glass: #2DD4BF;
+  --waste-landfill: #FBBF24;
+  --waste-ewaste: #F472B6;
+
+  --brand-gradient: linear-gradient(135deg, #22E58B 0%, #14B8A6 35%, #3B82F6 70%, #8B5CF6 100%);
+}
+
+.light {
+  --bg-deep: #F5F9F7;
+  --bg-surface: #FFFFFF;
+  --bg-elevated: #F1F5F9;
+  --border-soft: rgba(0, 0, 0, 0.08);
+  --text-main: #0F172A;
+  --text-muted: #64748B;
+}
